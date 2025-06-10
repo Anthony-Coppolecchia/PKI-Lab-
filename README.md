@@ -10,13 +10,13 @@ This project documents the setup and implementation of a Public Key Infrastructu
 ##  Lab Overview 
 
 The lab involved setting up a Certificate Authority (CA), generating digital certificates, and configuring secure communication protocols such as HTTPS and SSL/TLS using those certificates. The project provided hands-on experience with cryptographic key management, certificate signing, and establishing trust within a private network.
-##TOOLS
+## TOOLS
 -Ubuntu Server VM
 -Ubuntu Server Terminal/Shell
 -OpenSSL
 -Firefox Browser
 -Apache- configured web server to use SSL/TLS encryption
-##  Key Outcomes 
+## Outcomes 
 
 - Successfully deployed a functioning private CA and issued digital certificates 
 - Configured HTTPS encryption on a local web server using PKI 
